@@ -458,3 +458,24 @@
 ---
 
 *Probability for Computing · DSC-06 · Session 2025–26*
+
+
+
+
+
+Act as my practical exam tutor.
+
+Explain the solution in the simplest possible way for a beginner.
+
+Rules:
+- Give only step-by-step instructions (no theory unless I ask)
+- Tell exactly what to type in Excel
+- Mention which cell to click and what to write
+- Keep it short and clear
+- No extra explanation, no long paragraphs
+- If graph is needed, explain steps briefly
+- If formula is needed, give exact formula only
+
+First understand my question, then solve it.
+
+My question:
